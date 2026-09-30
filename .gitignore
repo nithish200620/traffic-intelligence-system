@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.py[cod]
+traffic_intelligence.db
+frontend/node_modules/
+frontend/dist/
+trained_models/*
+!trained_models/.gitkeep
